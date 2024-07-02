@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veeragowriprasath S</h1>
 <h3 align="center">UI/UX Design Novice | Data Analyst | Reseach Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgprasath&label=Profile%20views&color=0e75b6&style=flat" alt="vgprasath" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgprasath" alt="vgprasath" /></a> </p>
-
 - 🌱 I’m currently learning **Numpy, Pandas, Matplotlib, Seaborn**
 
 - 💬 Ask me about **UI, Figma**
